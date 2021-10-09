@@ -14,3 +14,7 @@ This project has next principle aims:
 
 Main project inspiration
 * [kernel.org/slab](https://www.kernel.org/doc/gorman/html/understand/understand011.html)
+
+## License
+
+Distributed under the MIT License.
