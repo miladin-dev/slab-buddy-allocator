@@ -12,8 +12,8 @@ This project has next principle aims:
 
 ## Acknowledgments
 
-Main project inspiration
-* [kernel.org/slab](https://www.kernel.org/doc/gorman/html/understand/understand011.html)
+Resource used
+* [slab&buddy](https://www.kernel.org/doc/gorman/html/understand/understand011.html)
 
 ## License
 
