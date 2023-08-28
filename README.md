@@ -1,6 +1,6 @@
 # Slab & Buddy Linux-like Memory Allocators  
 
-A Linux-like slab allocator that has underlying buddy allocator.
+A Linux-like slab memory allocator that has underlying buddy allocator.
 
 ## Description
 
